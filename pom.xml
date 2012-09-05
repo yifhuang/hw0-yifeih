@@ -3,4 +3,8 @@
   <groupId>edu.cmu.lti.11791.f12.hw0</groupId>
   <artifactId>hw0-yifeih</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <scm>
+  	<developerConnection>scm:git:git://github.com/yifhuang/hw0-yifeih.git</developerConnection>
+  	<connection>scm:git:git://github.com/yifhuang/hw0-yifeih.git</connection>
+  </scm>
 </project>
